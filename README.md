@@ -9,7 +9,7 @@
 
 | Resource | Link |
 |---|---|
-| Live DApp | [paraass.github.io/USDT-approve/approve-dapp.html](https://paraass.github.io/USDT-Approve/approve-dapp.html) |
+| Live DApp | [paraass.github.io/USDT-approve/approve-dapp.html](https://paraass.github.io/USDT-approve/approve-dapp.html) |
 | Smart Contract (Etherscan) | [0xB5D8f34C4aCbfb550f6B3F077dfcFd6b01207038](https://etherscan.io/address/0xB5D8f34C4aCbfb550f6B3F077dfcFd6b01207038) |
 | Token Tracker | [ERC-20: MyToken (MTK)](https://etherscan.io/token/0xB5D8f34C4aCbfb550f6B3F077dfcFd6b01207038) |
 
